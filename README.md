@@ -70,6 +70,22 @@ TEST_USER_PASSWORD=your-test-password
 - Husky
 - Tailwind CSS
 
+## AI Usage
+
+Tool used: ChatGPT
+
+Purpose:
+
+- Debugging test setup and configuration
+- Understanding Vitest and Playwright concepts
+- Guidance on Git workflow and pull requests
+- Explanations of ESLint, Husky, and environment variables
+
+Outcome:
+
+- Improved understanding of testing workflows and project configuration
+- Code was reviewed, adjusted, and written independently
+
 ## Author
 
 8headswillroll8
