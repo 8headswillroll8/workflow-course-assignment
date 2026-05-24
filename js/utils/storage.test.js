@@ -14,7 +14,9 @@ describe("Storage functions", () => {
   describe("getUsername", () => {
     it("Returns the name from the user object in storage", () => {
       const user = {
-        name: "username123",
+        data: {
+          name: "username123",
+        },
       };
 
       localStorage.setItem("user", JSON.stringify(user));
